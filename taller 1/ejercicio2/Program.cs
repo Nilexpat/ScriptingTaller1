@@ -6,10 +6,10 @@ class Program
     {
         // Solicitar el número de filas y columnas de la matriz
         Console.WriteLine("Ingresa el número de filas de la matriz:");
-        int filas = int.Parse(Console.ReadLine());
+        int filas = int.TryParse(Console.ReadLine());
 
         Console.WriteLine("Ingresa el número de columnas de la matriz:");
-        int columnas = int.Parse(Console.ReadLine());
+        int columnas = int.TryParse(Console.ReadLine());
 
         // Crear la matriz con las dimensiones especificadas
         
