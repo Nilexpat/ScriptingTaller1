@@ -1,0 +1,14 @@
+D:\escritorio\ScriptingXaca\taller 1\ejercicio1\bin\Debug\net9.0\ejercicio1.exe
+D:\escritorio\ScriptingXaca\taller 1\ejercicio1\bin\Debug\net9.0\ejercicio1.deps.json
+D:\escritorio\ScriptingXaca\taller 1\ejercicio1\bin\Debug\net9.0\ejercicio1.runtimeconfig.json
+D:\escritorio\ScriptingXaca\taller 1\ejercicio1\bin\Debug\net9.0\ejercicio1.dll
+D:\escritorio\ScriptingXaca\taller 1\ejercicio1\bin\Debug\net9.0\ejercicio1.pdb
+D:\escritorio\ScriptingXaca\taller 1\ejercicio1\obj\Debug\net9.0\ejercicio1.GeneratedMSBuildEditorConfig.editorconfig
+D:\escritorio\ScriptingXaca\taller 1\ejercicio1\obj\Debug\net9.0\ejercicio1.AssemblyInfoInputs.cache
+D:\escritorio\ScriptingXaca\taller 1\ejercicio1\obj\Debug\net9.0\ejercicio1.AssemblyInfo.cs
+D:\escritorio\ScriptingXaca\taller 1\ejercicio1\obj\Debug\net9.0\ejercicio1.csproj.CoreCompileInputs.cache
+D:\escritorio\ScriptingXaca\taller 1\ejercicio1\obj\Debug\net9.0\ejercicio1.dll
+D:\escritorio\ScriptingXaca\taller 1\ejercicio1\obj\Debug\net9.0\refint\ejercicio1.dll
+D:\escritorio\ScriptingXaca\taller 1\ejercicio1\obj\Debug\net9.0\ejercicio1.pdb
+D:\escritorio\ScriptingXaca\taller 1\ejercicio1\obj\Debug\net9.0\ejercicio1.genruntimeconfig.cache
+D:\escritorio\ScriptingXaca\taller 1\ejercicio1\obj\Debug\net9.0\ref\ejercicio1.dll
